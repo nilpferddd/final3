@@ -1,0 +1,41 @@
+# Solana Token Erstellungs-App
+
+## Aufgaben
+
+- [x] Recherche zu Solana Token durchführen
+  - [x] Informationen über Solana Token sammeln
+  - [x] Blockchain-Standards für Token-Entwicklung recherchieren
+  - [x] Smart Contract-Entwicklung für Token verstehen
+- [x] Analyse der easycoinlaunch.com Website
+  - [x] Token-Erstellungsfunktionen analysieren
+  - [x] Liquidity Pool-Funktionen analysieren
+  - [x] Benutzeroberfläche und Design analysieren
+- [x] Entwicklungsumgebung einrichten
+  - [x] Solana CLI installieren
+  - [x] Node.js und npm konfigurieren
+  - [x] Web3.js und andere Bibliotheken installieren
+  - [x] Projektstruktur erstellen
+- [x] Token-Erstellungsfunktionalität entwickeln
+  - [x] Token-Metadaten-Funktionen implementieren
+  - [x] Bild-Upload-Funktionalität implementieren
+  - [x] Social-Media-Links-Integration implementieren
+  - [x] Revoke-Funktionalität implementieren
+- [x] Liquidity Pool-Funktionen implementieren
+  - [x] Raydium V3 CPMM-Integration
+  - [x] Liquidity Pool-Erstellung implementieren
+  - [x] Liquidity Pool-Verwaltung implementieren
+- [x] Token-Verwaltungsfunktionen hinzufügen
+  - [x] Token-Übersicht implementieren
+  - [x] Token-Bearbeitung implementieren
+- [x] Benutzeroberfläche erstellen
+  - [x] Frontend-Framework einrichten
+  - [x] UI-Komponenten entwickeln
+  - [x] Responsive Design implementieren
+- [x] Anwendungsfunktionalität testen
+  - [x] Token-Erstellung testen
+  - [x] Liquidity Pool-Funktionen testen
+  - [x] Benutzeroberfläche testen
+- [x] Dokumentation erstellen
+  - [x] Technische Dokumentation schreiben
+  - [x] Benutzeranleitung verfassen
+- [x] Finale Anwendung an Benutzer übergeben

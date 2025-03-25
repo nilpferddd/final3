@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --foreground-rgb: 255, 255, 255;
+  --background-start-rgb: 0, 0, 0;
+  --background-end-rgb: 0, 0, 0;
+}
+
+body {
+  color: rgb(var(--foreground-rgb));
+  background: linear-gradient(
+      to bottom,
+      transparent,
+      rgb(var(--background-end-rgb))
+    )
+    rgb(var(--background-start-rgb));
+}
+
+.btn-primary {
+  @apply bg-solana-purple hover:bg-purple-700 text-white font-bold py-2 px-4 rounded;
+}
+
+.btn-secondary {
+  @apply bg-solana-green hover:bg-green-600 text-white font-bold py-2 px-4 rounded;
+}
+
+.input-field {
+  @apply bg-dark-blue border border-gray-600 rounded-md p-2 w-full text-white;
+}
+
+.card {
+  @apply bg-dark-blue p-6 rounded-lg shadow-lg;
+}
